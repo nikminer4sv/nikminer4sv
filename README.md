@@ -4,8 +4,6 @@ Hi ✌️ My name is Nikita Korotki
 C# Backend developer
 ----------------
  
-I started studying programming 5 years ago. I studied c# for 1 year, worked as a Unity developer and backend developer. And now I'm learning fullstack development(asp.net + angular). 
- 
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [mikita.karotki@gmail.com](mailto:mikita.karotki@gmail.com)
 
